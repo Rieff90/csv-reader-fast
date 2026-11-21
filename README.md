@@ -3,7 +3,9 @@
 A faster drop-in for **csv-reader 1.0.0**, entered in
 [make.fun's "Read broken CSV files faster"](https://make.fun/bounty/csv-reader-speed-01-run-20261121).
 
-[![make.fun · csv-reader-speed-01](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/Rieff90/csv-reader-fast/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/Rieff90/csv-reader-fast/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 `solve.js` exports `run(input)` and returns exactly what csv-reader 1.0.0 returns
 for the same input: `{columns, rows, errors}`, same strings, same error order.
